@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Laundry",
+      "done": false
+    },
+    {
+      "id": 2,
+      "name": "Cooking",
+      "done": false
+    },
+    {
+      "id": 3,
+      "name": "Cleaning Garage",
+      "done": false
+    },
+    {
+      "id": 4,
+      "name": "Grocery shopping",
+      "done": false
+    }
+  ]
+}
